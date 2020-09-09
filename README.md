@@ -1,0 +1,2 @@
+# FutoEdzes-Alapelvei
+FutoEdzes Elmelet
